@@ -1,17 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakhon Oonklan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3382ED&width=435&lines=Hi+%F0%9F%91%8B+I'm+Thanakhon+Oonklan;Full+Stack+Developer;Frontend+%26+UX%2FUI+Enthusiast)](https://git.io/typing-svg)
 ==========================================================================================================================================
 
-Aspiring Software Engineer & Web Developer
+Software Engineer & Web Developer
 -------------------------------------------
 
 **Passionate about creating beautiful and functional web experiences**
 
-* �  Studying at **King Mongkut's University of Technology**
+
 * 💻  Focused on **Frontend Development** & **UX/UI Design**
-* 🌍  Based in Thailand
-* ✉️  Contact me at [thanakhonyocj@gmail.com](mailto:thanakhonyocj@gmail.com)
 * 🚀  Currently learning **Next.js** & **TypeScript**
-* 🎯  Seeking opportunities to grow as a **Software Engineer** after graduation
 
 ## 🚀 Skills & Technologies
 
