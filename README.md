@@ -1,11 +1,17 @@
-Hi My name is Thanakhon Oonklan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakhon Oonklan
 ==========================================================================================================================================
 
-Software Engineer
+Aspiring Software Engineer & Web Developer
+-------------------------------------------
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thanakhonyocj@gmail.com](mailto:thanakhonyocj@gmail.com)
-* 🧠  I'm currently learning nextJS , TypeScript , UX/UI designer 
+**Passionate about creating beautiful and functional web experiences**
+
+* �  Studying at **King Mongkut's University of Technology**
+* 💻  Focused on **Frontend Development** & **UX/UI Design**
+* 🌍  Based in Thailand
+* ✉️  Contact me at [thanakhonyocj@gmail.com](mailto:thanakhonyocj@gmail.com)
+* 🚀  Currently learning **Next.js** & **TypeScript**
+* 🎯  Seeking opportunities to grow as a **Software Engineer** after graduation
 
 ## 🚀 Skills & Technologies
 
