@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3382ED&width=435&lines=Hi+%F0%9F%91%8B+I'm+Thanakhon+Oonklan;Full+Stack+Developer;Frontend+%26+UX%2FUI+Enthusiast)](https://git.io/typing-svg)
+Hi! My name is Thanakhon Oonklan
 ==========================================================================================================================================
 
-Software Engineer & Web Developer
--------------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3382ED&width=600&lines=Aspiring+Software+Engineer+%26+Web+Developer;Frontend+Developer+%26+UX%2FUI+Enthusiast;Building+Beautiful+Web+Experiences)](https://git.io/typing-svg)
 
 **Passionate about creating beautiful and functional web experiences**
 
