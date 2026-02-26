@@ -3,14 +3,12 @@ Hi! My name is Thanakhon Oonklan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3382ED&width=600&lines=Aspiring+Frontend+Development+%26+Web+Developer;Frontend+Developer+%26+UX%2FUI+Designer;Building+Beautiful+Web+Experiences)](https://git.io/typing-svg)
 
-**Passionate about creating beautiful and functional web experiences**
-
-* 💻  Focused on **Frontend Development** & **UX/UI Designer**
-* 🚀  Currently learning **Next.js** & **TypeScript**
+* Focused on **Frontend Development** & **UX/UI Designer**
+* Currently learning **Next.js** & **TypeScript**
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 ### 🌐 Frontend
 <p align="left">
