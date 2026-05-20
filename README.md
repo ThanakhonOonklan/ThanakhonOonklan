@@ -26,8 +26,13 @@ Focused on **Frontend Development** & **UX/UI Design**. Currently learning **Nex
 
 #
 
+### 💻 My Projects
 
-
+<!-- BEGIN PROJECT-CARDS -->
+[![Project 1](https://via.placeholder.com/250x140.png?text=Project+1+Image)](https://github.com/ThanakhonOonklan/project1)
+[![Project 2](https://via.placeholder.com/250x140.png?text=Project+2+Image)](https://github.com/ThanakhonOonklan/project2)
+[![Project 3](https://via.placeholder.com/250x140.png?text=Project+3+Image)](https://github.com/ThanakhonOonklan/project3)
+<!-- END PROJECT-CARDS -->
 <!--#
 // need to host my out stats
 
