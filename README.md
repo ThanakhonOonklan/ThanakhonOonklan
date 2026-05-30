@@ -1,8 +1,8 @@
 # 🏄‍♂️ Thanakhon Oonklan
 
-**`Aspiring Frontend & Web Developer`**
+**`Junior Frontend Developer`**
 
-Focused on **Frontend Development** & **UX/UI Design**. Currently learning **Next.js** & **TypeScript**.
+Focused on **FJunior Frontend Developer**. Currently learning **Next.js** & **TypeScript**.
 
    <p align="left">
       <a href="https://github.com/ThanakhonOonklan?tab=repositories&sort=stargazers">
