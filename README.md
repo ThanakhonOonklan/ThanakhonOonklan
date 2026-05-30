@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thanakhon%20Oonklan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Frontend%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
     <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=00FFFF&style=flat-square" alt="ThanakhonOonklan's profile views" />
   </a>
@@ -12,14 +16,6 @@
 
 ## 🧠 My Focus Areas
 - I am interested in building web applications, especially with Next.js and TypeScript. I also enjoy Robotics and IoT.
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ThanakhonOonklan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanakhonOonklan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="ThanakhonOonklan's GitHub Stats" />
-  </a>
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -69,7 +65,9 @@
 
 </p>
 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="https://github.com/ThanakhonOonklan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanakhonOonklan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="ThanakhonOonklan's GitHub Stats" />
+  </a>
 </p>
-
