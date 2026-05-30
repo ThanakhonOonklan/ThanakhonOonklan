@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
-    <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=00FFFF&style=flat-square" alt="ThanakhonOonklan's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=241B8F&style=flat-square" alt="ThanakhonOonklan's profile views" />
   </a>
 </p>
 
