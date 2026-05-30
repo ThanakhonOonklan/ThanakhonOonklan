@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:1a1a2e,100:d4b896&text=Thanakhon%20Oonklan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Frontend%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 
 
