@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
     <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=00FFFF&style=flat-square" alt="ThanakhonOonklan's profile views" />
