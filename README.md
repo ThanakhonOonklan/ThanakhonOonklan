@@ -9,7 +9,10 @@
 </p>
 
 ## 📌 About Me
-- Hello, my name is Thanakhon Oonklan, but you can call me "Jay". I am someone who loves building practical things, whether they are web applications or robots.
+- Hello, my name is JJ. I am currently studying Backend Development and working
+toward becoming a Full Stack Developer. I have a foundation in Frontend
+Development, UI/UX, and Web Application Development, with hands-on
+experience building projects using Next.js, React, and TypeScript.
 
 
 ## 🧠 My Focus Areas
