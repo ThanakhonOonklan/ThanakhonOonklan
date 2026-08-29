@@ -1,4 +1,4 @@
-[![Banner](./assets/banner.svg)](https://github.com/ThanakhonOonklan)
+[![Banner](./assets/banner.svg)](https://portfolio-thanakhon.vercel.app/)
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
@@ -6,16 +6,13 @@
   </a>
 </p>
 
-Hi, I'm **[Thanakhon Oonklan (JJ)](https://github.com/ThanakhonOonklan)**
+Hi, I'm **[Thanakhon Oonklan (JJ)](https://portfolio-thanakhon.vercel.app/)**
 
 I'm a Software Engineer passionate about crafting modern web applications, interactive UI/UX experiences, and exploring Robotics & IoT systems.
 
 ## About Me
 
 - **Education:** Studying Bachelor of Industrial Technology in Information Technology (Continuing Program) at King Mongkut's University of Technology North Bangkok (KMUTNB).
-- **Frontend Development:** Hands-on experience developing responsive and interactive web applications using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Zustand**.
-- **Backend & Systems:** Building scalable APIs and database solutions with **Node.js**, **Express**, **PHP**, **PostgreSQL**, **MySQL**, and **Prisma**.
-- **Robotics & IoT:** Experienced in developing ESP32 4-wheel Omnidirectional Mecanum robots, PCB design, firmware development, and wireless control protocols.
 - **Experience:** Former Robotics Engineering Intern at Wireless Solution Asia and freelance Software Engineer.
 - **Recognition:** 2nd Place Award in National Contest of the New Generation (ESP32 Robot Controller).
 
@@ -63,6 +60,10 @@ I'm a Software Engineer passionate about crafting modern web applications, inter
 ## Get in Touch
 
 <p align="left">
+  <a href="https://portfolio-thanakhon.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
+    <img src="https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:thanakhon.oonklan@gmail.com" title="Send Email">
     <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" />
   </a>
