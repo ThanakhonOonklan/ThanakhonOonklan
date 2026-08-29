@@ -59,12 +59,6 @@ I'm a Software Engineer passionate about crafting modern web applications, inter
 
 [![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,prisma,php,python,cpp,arduino,git,github,figma,vscode,postman,docker,vercel&perline=12)](https://skillicons.dev)
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanakhonOonklan&show_icons=true&theme=tokyonight&border_radius=8&locale=en" alt="ThanakhonOonklan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ThanakhonOonklan&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
-</p>
 
 ## Get in Touch
 
