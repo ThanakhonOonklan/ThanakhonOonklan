@@ -54,7 +54,7 @@ I'm a Software Engineer specializing in Next.js & TypeScript, building engaging 
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,prisma,php,python,cpp,arduino,git,github,figma,vscode,postman,docker,vercel&perline=12)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,prisma,php,python,cpp,arduino,git,github,figma,vscode,postman,docker,vercel&perline=12" height="68" alt="Tech Stack" /></a>
 
 
 ## Get in Touch
