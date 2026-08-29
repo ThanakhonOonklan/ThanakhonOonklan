@@ -1,21 +1,27 @@
 [![Banner](./assets/banner.svg)](https://github.com/ThanakhonOonklan)
 
-Hi, I'm **[Thanakhon Oonklan (JJ)](https://github.com/ThanakhonOonklan)** 👋
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
+    <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=006D32&style=flat-square" alt="ThanakhonOonklan's profile views" />
+  </a>
+</p>
 
-I'm a Junior Full Stack Developer passionate about crafting modern web applications, interactive UI/UX experiences, and exploring Robotics & IoT systems.
+Hi, I'm **[Thanakhon Oonklan (JJ)](https://github.com/ThanakhonOonklan)**
 
-## 📌 About Me
+I'm a Software Engineer passionate about crafting modern web applications, interactive UI/UX experiences, and exploring Robotics & IoT systems.
 
-- **🎓 Education:** Studying Bachelor of Industrial Technology in Information Technology (Continuing Program) at King Mongkut's University of Technology North Bangkok (KMUTNB).
-- **💻 Frontend Development:** Hands-on experience developing responsive and interactive web applications using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Zustand**.
-- **⚙️ Backend & Systems:** Building scalable APIs and database solutions with **Node.js**, **Express**, **PHP**, **PostgreSQL**, **MySQL**, and **Prisma**.
-- **🤖 Robotics & IoT:** Experienced in developing ESP32 4-wheel Omnidirectional Mecanum robots, PCB design, firmware development, and wireless control protocols.
-- **💼 Experience:** Former Robotics Engineering Intern at Wireless Solution Asia and freelance Full Stack Developer.
-- **🏆 Recognition:** 2nd Place Award in National Contest of the New Generation (ESP32 Robot Controller).
+## About Me
 
-## 🚀 Featured Projects
+- **Education:** Studying Bachelor of Industrial Technology in Information Technology (Continuing Program) at King Mongkut's University of Technology North Bangkok (KMUTNB).
+- **Frontend Development:** Hands-on experience developing responsive and interactive web applications using **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Zustand**.
+- **Backend & Systems:** Building scalable APIs and database solutions with **Node.js**, **Express**, **PHP**, **PostgreSQL**, **MySQL**, and **Prisma**.
+- **Robotics & IoT:** Experienced in developing ESP32 4-wheel Omnidirectional Mecanum robots, PCB design, firmware development, and wireless control protocols.
+- **Experience:** Former Robotics Engineering Intern at Wireless Solution Asia and freelance Software Engineer.
+- **Recognition:** 2nd Place Award in National Contest of the New Generation (ESP32 Robot Controller).
 
-### 🎮 [Thinking Skills Games for Kids](https://pbit-nongbrite.vercel.app/)
+## Featured Projects
+
+### [Thinking Skills Games for Kids](https://pbit-nongbrite.vercel.app/)
 
 *A web-based educational gaming platform for children designed to develop analytical thinking, problem-solving, and logical reasoning through 7 interactive mini-games across 63 levels.*
 
@@ -28,7 +34,7 @@ I'm a Junior Full Stack Developer passionate about crafting modern web applicati
 
 ---
 
-### 📦 [IoT Equipment Borrowing & Returning System](https://github.com/ThanakhonOonklan)
+### [IoT Equipment Borrowing & Returning System](https://github.com/ThanakhonOonklan)
 
 *A Full Stack web application for managing IoT equipment borrowing and returning with real-time status tracking, role-based access (Admin/User), and analytics dashboards.*
 
@@ -40,7 +46,7 @@ I'm a Junior Full Stack Developer passionate about crafting modern web applicati
 
 ---
 
-### 🤖 [ESP32 Omnidirectional Robot Controller](https://github.com/ThanakhonOonklan)
+### [ESP32 Omnidirectional Robot Controller](https://github.com/ThanakhonOonklan)
 
 *An Omnidirectional 4-wheel Mecanum robot wirelessly controlled via mobile phone and PS4 controller using ESP32 Wi-Fi protocol, custom PCB design, and C++ firmware.*
 
@@ -49,35 +55,33 @@ I'm a Junior Full Stack Developer passionate about crafting modern web applicati
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-## 🛠️ Stack
+## Stack
 
 [![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,prisma,php,python,cpp,arduino,git,github,figma,vscode,postman,docker,vercel&perline=12)](https://skillicons.dev)
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanakhonOonklan&show_icons=true&theme=tokyonight&border_radius=8&locale=en" alt="ThanakhonOonklan's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ThanakhonOonklan&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
-    <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=006D32&style=flat-square" alt="ThanakhonOonklan's profile views" />
-  </a>
-</p>
-
-## 📬 Get in Touch
+## Get in Touch
 
 <p align="left">
-  <a href="mailto:thanakhon.oonklan@gmail.com">
+  <a href="mailto:thanakhon.oonklan@gmail.com" title="Send Email">
     <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thanakhon-oonklan-431766292/">
+  <a href="https://www.facebook.com/thanakhon.oonklan" target="_blank" rel="noopener noreferrer" title="Facebook">
+    <img src="https://api.iconify.design/simple-icons/facebook.svg?color=%231877F2&height=30" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thanakhon-oonklan-431766292/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ThanakhonOonklan">
+  <a href="https://github.com/ThanakhonOonklan" target="_blank" rel="noopener noreferrer" title="GitHub">
     <img src="https://api.iconify.design/simple-icons/github.svg?color=white&height=30" alt="GitHub" />
   </a>
 </p>
