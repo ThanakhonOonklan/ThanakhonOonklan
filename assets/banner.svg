@@ -6,8 +6,9 @@
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2da44e"/>
-      <stop offset="100%" stop-color="#1f6feb"/>
+      <stop offset="0%" stop-color="#ff2d78"/>
+      <stop offset="50%" stop-color="#ff75b5"/>
+      <stop offset="100%" stop-color="#ffffff"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="320" fill="url(#bg)"/>
