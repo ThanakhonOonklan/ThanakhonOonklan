@@ -60,23 +60,9 @@ I'm a Software Engineer specializing in Next.js & TypeScript, building engaging 
 ## Get in Touch
 
 <p align="left">
-  <a href="https://portfolio-thanakhon.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfolio">
-    <img src="https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:thanakhon.oonklan@gmail.com" title="Send Email">
-    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/thanakhon.oonklan" target="_blank" rel="noopener noreferrer" title="Facebook">
-    <img src="https://api.iconify.design/simple-icons/facebook.svg?color=%231877F2&height=30" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thanakhon-oonklan-431766292/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ThanakhonOonklan" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img src="https://api.iconify.design/simple-icons/github.svg?color=white&height=30" alt="GitHub" />
-  </a>
+  <a href="https://portfolio-thanakhon.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfolio"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:thanakhon.oonklan@gmail.com" title="Send Email"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thanakhon.oonklan" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://api.iconify.design/simple-icons/facebook.svg?color=%231877F2&height=30" alt="Facebook" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thanakhon-oonklan-431766292/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/ThanakhonOonklan" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=white&height=30" alt="GitHub" /></a>
 </p>
