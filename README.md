@@ -1,6 +1,6 @@
 [![Banner](./assets/banner.svg)](https://portfolio-thanakhon.vercel.app/)
 
-<p align="left">
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
     <img src="https://komarev.com/ghpvc/?username=ThanakhonOonklan&label=Profile%20views&color=006D32&style=flat-square" alt="ThanakhonOonklan's profile views" />
   </a>
@@ -8,7 +8,7 @@
 
 Hi, I'm **[Thanakhon Oonklan (JJ)](https://portfolio-thanakhon.vercel.app/)**
 
-I'm a Software Engineer passionate about crafting modern web applications, interactive UI/UX experiences, and exploring Robotics & IoT systems.
+I'm a Software Engineer specializing in Next.js & TypeScript, building engaging web applications and exploring the frontiers of IoT & robotics.
 
 ## About Me
 
