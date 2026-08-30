@@ -8,7 +8,7 @@
 
 Hi, I'm **[Thanakhon Oonklan (JJ)](https://portfolio-thanakhon.vercel.app/)**
 
-I'm a Software Engineer specializing in Next.js & TypeScript, building engaging web applications and exploring the frontiers of IoT & robotics.
+I'm a Software Engineer in Next.js & TypeScript, building engaging web applications and exploring the frontiers of IoT & robotics.
 
 ## About Me
 
