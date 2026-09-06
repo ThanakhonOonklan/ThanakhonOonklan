@@ -1,4 +1,4 @@
-[![Banner](./assets/banner.svg)](https://portfolio-thanakhon.vercel.app/)
+[![Banner](./assets/banner.svg)](https://thanakhon-portfolio.vercel.app/)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ThanakhonOonklan">
@@ -6,63 +6,55 @@
   </a>
 </p>
 
-Hi, I'm **[Thanakhon Oonklan (JJ)](https://portfolio-thanakhon.vercel.app/)**
+# Thanakhon Oonklan (JJ)
 
-I'm a Software Engineer in Next.js & TypeScript, building engaging web applications and exploring the frontiers of IoT & robotics.
-
-## About Me
-
-- **Education:** Studying Bachelor of Industrial Technology in Information Technology (Continuing Program) at King Mongkut's University of Technology North Bangkok (KMUTNB).
-- **Experience:** Former Robotics Engineering Intern at Wireless Solution Asia and freelance Software Engineer.
-- **Recognition:** 2nd Place Award in National Contest of the New Generation (ESP32 Robot Controller).
-
-## Featured Projects
-
-### [Thinking Skills Games for Kids](https://pbit-nongbrite.vercel.app/)
-
-*A web-based educational gaming platform for children designed to develop analytical thinking, problem-solving, and logical reasoning through 7 interactive mini-games across 63 levels.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://pbit-nongbrite.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Zustand](https://img.shields.io/badge/State-Zustand-443e38?style=flat-square)](https://zustand-demo.pmnd.rs/)
+> **Full Stack Developer** specializing in modern web architecture, responsive UI/UX, scalable backend systems, and IoT integrations.
 
 ---
 
-### [IoT Equipment Borrowing & Returning System](https://github.com/ThanakhonOonklan)
+## Professional Summary
 
-*A Full Stack web application for managing IoT equipment borrowing and returning with real-time status tracking, role-based access (Admin/User), and analytics dashboards.*
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+- **Role:** Full Stack Developer with expertise in designing and deploying end-to-end web applications, combining modern frontend architectures with scalable backend services.
+- **Technical Focus:** Frontend Development (**React, Next.js, TypeScript, Tailwind CSS**) and Backend & Database engineering (**Node.js, PostgreSQL, MySQL, Supabase, RESTful APIs**).
+- **Hardware & IoT:** Experience bridging software with hardware, including embedded systems (**ESP32, Arduino**), sensor communications, and industrial robotic programming.
+- **Education:** Bachelor of Industrial Technology in Industrial Technology and Management, King Mongkut's University of Technology North Bangkok (KMUTNB).
+- **Key Honors & Competitions:**
+  - **Finalist Developer:** The 28th National Software Contest (NSC 2026)
+  - **Gold Medal Consolation Award:** National Contest of the New Generation (ESP32 Robot Controller)
+  - **Participant:** 31st National Skills Competition (Industrial Robot Control)
 
 ---
 
-### [ESP32 Omnidirectional Robot Controller](https://github.com/ThanakhonOonklan)
+## Technical Skills
 
-*An Omnidirectional 4-wheel Mecanum robot wirelessly controlled via mobile phone and PS4 controller using ESP32 Wi-Fi protocol, custom PCB design, and C++ firmware.*
+### Frontend & UI Engineering
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,figma&perline=10" height="40" alt="Frontend Technologies" />
+</a>
 
-[![Award](https://img.shields.io/badge/Award-2nd%20Place%20Winner-2da44e?style=flat-square)](https://github.com/ThanakhonOonklan)
-[![ESP32](https://img.shields.io/badge/ESP32-Hardware-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+### Backend, Database & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma,php,vercel&perline=10" height="40" alt="Backend Technologies" />
+</a>
 
-## Stack
+### Hardware, Embedded Systems & Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,python&perline=10" height="40" alt="Hardware & Languages" />
+</a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,mysql,prisma,php,python,cpp,arduino,git,github,figma,vscode,postman,docker,vercel&perline=25" height="40" alt="Tech Stack" /></a>
+### Tools & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=10" height="40" alt="Tools & DevOps" />
+</a>
 
+---
 
-## Get in Touch
+## Connect
 
 <p align="left">
-  <a href="https://portfolio-thanakhon.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfolio"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="mailto:thanakhon.oonklan@gmail.com" title="Send Email"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/thanakhon.oonklan" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://api.iconify.design/simple-icons/facebook.svg?color=%231877F2&height=30" alt="Facebook" /></a>&nbsp;&nbsp;
+  <a href="https://thanakhon-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" title="Portfolio"><img src="https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:thanakhonyocj@gmail.com" title="Send Email"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=30" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thanakhon-oonklan-431766292/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=30" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ThanakhonOonklan" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=white&height=30" alt="GitHub" /></a>
+  <a href="https://github.com/ThanakhonOonklan" target="_blank" rel="noopener noreferrer" title="GitHub"><img src="https://api.iconify.design/simple-icons/github.svg?color=white&height=30" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thanakhon.oonklan" target="_blank" rel="noopener noreferrer" title="Facebook"><img src="https://api.iconify.design/simple-icons/facebook.svg?color=%231877F2&height=30" alt="Facebook" /></a>
 </p>
