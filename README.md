@@ -6,13 +6,11 @@
   </a>
 </p>
 
-# Thanakhon Oonklan (JJ)
+Hi, I'm [Thanakhon Oonklan (JJ)](https://thanakhon-portfolio.vercel.app/)
 
-Full Stack Developer with expertise in designing and deploying end-to-end web applications, combining modern frontend architectures with scalable backend services and IoT integrations.
+I'm a Full Stack Developer with hands-on experience building real-world web applications using Next.js, React, Node.js, and TypeScript - bridging the gap between software and hardware with IoT and Robotics.
 
----
-
-## Profile
+## About Me
 
 ### Core Focus
 - **Frontend Architecture:** React, Next.js, TypeScript, Tailwind CSS
