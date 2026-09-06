@@ -8,20 +8,25 @@
 
 # Thanakhon Oonklan (JJ)
 
-> **Full Stack Developer** specializing in modern web architecture, responsive UI/UX, scalable backend systems, and IoT integrations.
+Full Stack Developer with expertise in designing and deploying end-to-end web applications, combining modern frontend architectures with scalable backend services and IoT integrations.
 
 ---
 
-## Professional Summary
+## Profile
 
-- **Role:** Full Stack Developer with expertise in designing and deploying end-to-end web applications, combining modern frontend architectures with scalable backend services.
-- **Technical Focus:** Frontend Development (**React, Next.js, TypeScript, Tailwind CSS**) and Backend & Database engineering (**Node.js, PostgreSQL, MySQL, Supabase, RESTful APIs**).
-- **Hardware & IoT:** Experience bridging software with hardware, including embedded systems (**ESP32, Arduino**), sensor communications, and industrial robotic programming.
-- **Education:** Bachelor of Industrial Technology in Industrial Technology and Management, King Mongkut's University of Technology North Bangkok (KMUTNB).
-- **Key Honors & Competitions:**
-  - **Finalist Developer:** The 28th National Software Contest (NSC 2026)
-  - **Gold Medal Consolation Award:** National Contest of the New Generation (ESP32 Robot Controller)
-  - **Participant:** 31st National Skills Competition (Industrial Robot Control)
+### Core Focus
+- **Frontend Architecture:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend & Database:** Node.js, MySQL, Supabase, Prisma, PHP, RESTful APIs
+- **Hardware & IoT:** ESP32, Arduino, Embedded C++, Industrial Robotics
+
+### Education
+- **King Mongkut's University of Technology North Bangkok (KMUTNB)**  
+  Bachelor of Industrial Technology - Industrial Technology and Management
+
+### Honors & Competitions
+- **Finalist Developer** - The 28th National Software Contest (NSC 2026)
+- **Gold Medal Consolation Award** - National Contest of the New Generation (ESP32 Robot Controller)
+- **Participant** - 31st National Skills Competition (Industrial Robot Control)
 
 ---
 
@@ -34,7 +39,7 @@
 
 ### Backend, Database & Cloud
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma,php,vercel&perline=10" height="40" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase,prisma,php,vercel&perline=10" height="40" alt="Backend Technologies" />
 </a>
 
 ### Hardware, Embedded Systems & Languages
